@@ -1,2 +1,4 @@
-print("Z GBLJHFC")
+
 print("Lt,bk vfnm ndj. cerf t,fysq")
+print("Kto Ti Takoe")
+
