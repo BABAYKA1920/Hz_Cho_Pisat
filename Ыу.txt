@@ -1,5 +1,5 @@
 
-print("Lt,bk vfnm ndj. cerf t,fysq")
+print("Poslanie znachit chto VIRASTI SAD PEREOCHENIUONNIY KYSOK KALA")
 print("Kto Ti Takoe")
 print("Abububub gagaga gugu bububu")
 
