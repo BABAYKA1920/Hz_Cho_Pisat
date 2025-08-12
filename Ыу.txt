@@ -1,4 +1,5 @@
 
 print("Lt,bk vfnm ndj. cerf t,fysq")
 print("Kto Ti Takoe")
+print("Abububub gagaga gugu bububu")
 
